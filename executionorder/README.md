@@ -1,4 +1,4 @@
-Spek execution order
+# Spek execution order
 
 Spek consists of different Scopes. One of them is ```Group``` scope. This scope is initiated by one of the following keywords: ```given```, ```describe``` or ```context```. You can also create nested context as seen in this exmaple.
 The [official documentation](http://spekframework.org/docs/latest/#_scopes) does state a very important fact:
